@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "72898286-2ACC-4408-80D9-0FAD04CB78D1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43C68F7B-B8EA-456E-B462-8E0348A824E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyAppStore/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "43C68F7B-B8EA-456E-B462-8E0348A824E8 - 76ca1b01ae27f87d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyAppStore.AppDelegate.__allocating_init() -&gt; MyAppStore.AppDelegate"
+                  moduleName = "MyAppStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/local192/Desktop/MyAppStore/MyAppStore/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "43C68F7B-B8EA-456E-B462-8E0348A824E8 - 53a1c904ff3bc705"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyAppStore.AppDelegate.init() -&gt; MyAppStore.AppDelegate"
+                  moduleName = "MyAppStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/local192/Desktop/MyAppStore/MyAppStore/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "43C68F7B-B8EA-456E-B462-8E0348A824E8 - d1b507fac448cfed"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyAppStore.AppDelegate.__deallocating_deinit"
+                  moduleName = "MyAppStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/local192/Desktop/MyAppStore/MyAppStore/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "43C68F7B-B8EA-456E-B462-8E0348A824E8 - e140716be244f1ed"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "MyAppStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/local192/Desktop/MyAppStore/MyAppStore/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
