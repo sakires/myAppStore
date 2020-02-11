@@ -15,6 +15,7 @@
 		2321E66223E82C1000DD1538 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2321E66123E82C1000DD1538 /* Assets.xcassets */; };
 		2321E66523E82C1000DD1538 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2321E66323E82C1000DD1538 /* LaunchScreen.storyboard */; };
 		2321E66D23E836C600DD1538 /* AddItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2321E66C23E836C600DD1538 /* AddItemViewController.swift */; };
+		23914D2123F2A1EF00EB5F7F /* TableViewCellItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23914D2023F2A1EF00EB5F7F /* TableViewCellItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		2321E66423E82C1000DD1538 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2321E66623E82C1000DD1538 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2321E66C23E836C600DD1538 /* AddItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemViewController.swift; sourceTree = "<group>"; };
+		23914D2023F2A1EF00EB5F7F /* TableViewCellItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCellItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 		2321E65423E82C0F00DD1538 /* MyAppStore */ = {
 			isa = PBXGroup;
 			children = (
+				23914D2023F2A1EF00EB5F7F /* TableViewCellItem.swift */,
 				2321E65523E82C0F00DD1538 /* AppDelegate.swift */,
 				2321E65723E82C0F00DD1538 /* SceneDelegate.swift */,
 				2321E65923E82C0F00DD1538 /* ViewController.swift */,
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				23914D2123F2A1EF00EB5F7F /* TableViewCellItem.swift in Sources */,
 				2321E66D23E836C600DD1538 /* AddItemViewController.swift in Sources */,
 				2321E65A23E82C0F00DD1538 /* ViewController.swift in Sources */,
 				2321E65623E82C0F00DD1538 /* AppDelegate.swift in Sources */,
