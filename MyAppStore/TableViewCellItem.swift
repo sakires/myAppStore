@@ -27,4 +27,15 @@ class TableViewCellItem: UITableViewCell {
         // Configure the view for the selected state
     }
 
+    func setItem(item:Item){
+        labelItemName.text = item.item_name
+        labelStoreName.text = item.toStoreType?.store_name
+        imageViewItemImage.image = item.image as! UIImage
+        
+        let dateFormatter = DateFormatter()
+        dateFormatter.dateFormat = "dd/MM/yyyy HH:mm"
+        
+        labelDateAdd.text = dateFormatter.string(from: item.date_add as! Date)
+        
+    }
 }

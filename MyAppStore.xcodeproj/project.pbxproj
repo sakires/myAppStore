@@ -16,6 +16,7 @@
 		2321E66523E82C1000DD1538 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2321E66323E82C1000DD1538 /* LaunchScreen.storyboard */; };
 		2321E66D23E836C600DD1538 /* AddItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2321E66C23E836C600DD1538 /* AddItemViewController.swift */; };
 		23914D2123F2A1EF00EB5F7F /* TableViewCellItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23914D2023F2A1EF00EB5F7F /* TableViewCellItem.swift */; };
+		23914D2323F2A4CB00EB5F7F /* ListItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23914D2223F2A4CA00EB5F7F /* ListItemViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		2321E66623E82C1000DD1538 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2321E66C23E836C600DD1538 /* AddItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemViewController.swift; sourceTree = "<group>"; };
 		23914D2023F2A1EF00EB5F7F /* TableViewCellItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCellItem.swift; sourceTree = "<group>"; };
+		23914D2223F2A4CA00EB5F7F /* ListItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 			isa = PBXGroup;
 			children = (
 				23914D2023F2A1EF00EB5F7F /* TableViewCellItem.swift */,
+				23914D2223F2A4CA00EB5F7F /* ListItemViewController.swift */,
 				2321E65523E82C0F00DD1538 /* AppDelegate.swift */,
 				2321E65723E82C0F00DD1538 /* SceneDelegate.swift */,
 				2321E65923E82C0F00DD1538 /* ViewController.swift */,
@@ -151,6 +154,7 @@
 				2321E66D23E836C600DD1538 /* AddItemViewController.swift in Sources */,
 				2321E65A23E82C0F00DD1538 /* ViewController.swift in Sources */,
 				2321E65623E82C0F00DD1538 /* AppDelegate.swift in Sources */,
+				23914D2323F2A4CB00EB5F7F /* ListItemViewController.swift in Sources */,
 				2321E65823E82C0F00DD1538 /* SceneDelegate.swift in Sources */,
 				2321E66023E82C0F00DD1538 /* MyAppStore.xcdatamodeld in Sources */,
 			);
